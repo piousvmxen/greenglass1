@@ -1,0 +1,64 @@
+البطاقة الفنية للمشروع: تطبيق GlassCycle
+
+اسم المشروع: GlassCycle
+المجال: إعادة تدوير الزجاج – التجميع والتكسير
+المنطقة: سيدي بلعباس، الجزائر
+
+
+---
+
+1. وصف المشروع:
+
+تطبيق GlassCycle هو تطبيق 3. الخصائص الرئيسية للتطبيق:
+
+تحديد مواقع نقاط التجميع عبر خريطة تفاعلية.
+
+طلب جمع الزجاج للأفراد والمؤسسات.
+
+نظام مكافآت (نقاط أو أرصدة للمستخدمين النشطين).
+
+إحصائيات بيئية (كمية الزجاج المعاد تدويره، والانبعاثات التي تم تجنبها).
+
+نظام مراسلة داخلي بين الجامعين والعملاء.
+
+
+
+---
+
+4. الفئة المستهدفة:
+
+الأفراد.
+
+المقاهي والمطاعم والفنادق.
+
+المصانع والورش التي تستخدم الزجاج.
+
+الجامعون المستقلون.
+
+
+
+---
+
+5. نموذج العمل (طريقة الربح):
+
+بيع الزجاج المكسّر إلى شركات إعادة التدوير.
+
+اشتراكات مميزة (Premium) للشركات.
+
+إعلانات بيئية داخل التطبيق.
+
+عمولات على خدمات الجمع.
+
+
+
+---
+
+6. التقنيات المقترحة:
+
+create a website for me ,, make it modern and respect all the above
+complete the project ,,, inscrption ,, admin part ,, google map part , sign in part 
+,, make the project complete and if you have something to add to this project add it 
+what i want is a complete project where there is some glass collecting point ("hotels , restaurant ,, coffeshop ,,, glass manufacturar ,,  etc ,, basically every entity that has broken glass ,) those entity make demand for us to collect the glass ,,, we get notification with there google map location ,, to go and collect the broken glass 
+,, so finish the project and give me the complete perfect version
+
+
